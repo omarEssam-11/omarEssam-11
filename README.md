@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Essam</h1>
-<h3 align="center">Data Science ,ML enthusiastic</h3>
+<h3 align="center">Data Science ,ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaressam-11&label=Profile%20views&color=0e75b6&style=flat" alt="omaressam-11" /> </p>
 
