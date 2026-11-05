@@ -22,9 +22,19 @@
 
 I'm an AI Engineer working at the layer between probabilistic models and production software: orchestration, retrieval, evaluation, and safety. My work spans **autonomous multi-agent systems**, **multimodal retrieval-augmented generation**, and **applied machine learning** — from training and evaluation through to APIs, dashboards, and deployment.
 
+Most of my work starts from a failure mode: a model that invents a number, a retriever that misses the figure, an agent that acts without permission. I design around those cases first, then build the happy path.
+
 - **B.Sc. in Computer Engineering**, Menoufia University — graduated with an **Excellent** degree
 - Experience across agentic AI training (**NTI**), AI backend engineering (**FlyRank**), and technical instruction (**Udacity**, **3C**)
 - I care about systems that can explain their decisions, refuse unsafe actions, and hand over to a human at the right moment
+
+---
+
+## How I work
+
+- **Deterministic boundaries around probabilistic models** — the model proposes, code validates, and every action is checked before it runs.
+- **Evaluation before shipping** — safety scenarios, retrieval recall, and language accuracy are measured, not assumed.
+- **Human-in-the-loop by design** — a system that knows when to stop and hand over is more useful than one that always answers.
 
 ---
 
@@ -49,6 +59,31 @@ I'm an AI Engineer working at the layer between probabilistic models and product
 | **[Video Captioning with BLIP](https://github.com/omarEssam-11/Video-Captioning-Blip)** | End-to-end per-frame video captioning, caption burn-in, and re-encoding — via web UI, REST API, CLI, and notebook. | Python · PyTorch · BLIP · FastAPI · Docker |
 
 <sub>AI Clinical Diagnostics is a private repository — the full case study is on my <a href="https://omaressam-11.github.io/#projects">portfolio</a>.</sub>
+
+---
+
+## Selected results
+
+| Project | Metric | Result |
+| :--- | :--- | :--- |
+| Ticket-Easy | Safety & guardrails | **83/83** scenarios · **44/44** guardrail cases · **0** unsafe actions |
+| Ticket-Easy | Intent accuracy | **95.0%** English · **95.0%** Arabic · **93.3%** mixed |
+| Ticket-Easy | Policy recall@5 | **89.3%** shop · **97.5%** marketplace · **82.2%** telecom |
+| Ticket-Easy | Automated tests | **~5,900** across services and dashboard |
+| AI Clinical Diagnostics | Risk prediction | **96.5%** accuracy · **92%** F1 · **95%** ROC-AUC |
+| AI Clinical Diagnostics | Data scale | **25+** clinical variables · **15+ years** of NHANES surveys |
+
+---
+
+## Experience
+
+| Role | Organization | Period | Focus |
+| :--- | :--- | :--- | :--- |
+| Agentic AI Engineer Trainee | NTI Hire-Ready Program | Jul – Oct 2026 | LangChain & LangGraph agents, tool calling, memory, vector databases |
+| AI Backend Engineering Intern | FlyRank | Jun – Aug 2026 | ML and LLM features inside production backend services |
+| Session Lead | Udacity | Jun 2025 – Jan 2026 | Applied data science, Python, ML, and model evaluation |
+| Coding Instructor | 3C | May – Aug 2025 | Python and machine learning fundamentals |
+| Data Science Intern | NTI — DEPI | Jun – Dec 2024 | Full data science lifecycle, preprocessing to deployment |
 
 ---
 
@@ -95,6 +130,7 @@ I'm an AI Engineer working at the layer between probabilistic models and product
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarEssam-11&theme=github_dark" alt="Omar's GitHub profile summary" />
 
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omarEssam-11&theme=github_dark" alt="Top languages by commit" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omarEssam-11&theme=github_dark&utcOffset=2" alt="Commits by time of day" />
 
 </div>
 
