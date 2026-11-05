@@ -62,31 +62,6 @@ Most of my work starts from a failure mode: a model that invents a number, a ret
 
 ---
 
-## Selected results
-
-| Project | Metric | Result |
-| :--- | :--- | :--- |
-| Ticket-Easy | Safety & guardrails | **83/83** scenarios · **44/44** guardrail cases · **0** unsafe actions |
-| Ticket-Easy | Intent accuracy | **95.0%** English · **95.0%** Arabic · **93.3%** mixed |
-| Ticket-Easy | Policy recall@5 | **89.3%** shop · **97.5%** marketplace · **82.2%** telecom |
-| Ticket-Easy | Automated tests | **~5,900** across services and dashboard |
-| AI Clinical Diagnostics | Risk prediction | **96.5%** accuracy · **92%** F1 · **95%** ROC-AUC |
-| AI Clinical Diagnostics | Data scale | **25+** clinical variables · **15+ years** of NHANES surveys |
-
----
-
-## Experience
-
-| Role | Organization | Period | Focus |
-| :--- | :--- | :--- | :--- |
-| Agentic AI Engineer Trainee | NTI Hire-Ready Program | Jul – Oct 2026 | LangChain & LangGraph agents, tool calling, memory, vector databases |
-| AI Backend Engineering Intern | FlyRank | Jun – Aug 2026 | ML and LLM features inside production backend services |
-| Session Lead | Udacity | Jun 2025 – Jan 2026 | Applied data science, Python, ML, and model evaluation |
-| Coding Instructor | 3C | May – Aug 2025 | Python and machine learning fundamentals |
-| Data Science Intern | NTI — DEPI | Jun – Dec 2024 | Full data science lifecycle, preprocessing to deployment |
-
----
-
 ## Tech stack
 
 **Languages & data**
@@ -99,27 +74,55 @@ Most of my work starts from a failure mode: a model that invents a number, a ret
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
 
-**AI & retrieval**
+<sub>Seaborn · EDA · Data cleaning · Feature engineering · Statistical analysis</sub>
+
+**Agentic AI & LLM**
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-0E7A5F?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square" alt="AutoGen" />
+  <img src="https://img.shields.io/badge/MCP-6E7681?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
+<sub>Tool use · Function calling · Shared-state orchestration · Multi-agent coordination · Memory systems · Prompt engineering · Human-in-the-loop</sub>
+
+**RAG & multimodal**
+
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square" alt="Chroma" />
+  <img src="https://img.shields.io/badge/Pinecone-1B17FF?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/CLIP-000000?style=flat-square" alt="CLIP" />
+  <img src="https://img.shields.io/badge/BLIP-0E7A5F?style=flat-square" alt="BLIP" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+<sub>Multimodal RAG · Vision-language models · Hybrid search · Reciprocal Rank Fusion · LoRA / QLoRA · Cited generation</sub>
+
+**ML, vision & deployment**
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-2DD4A8?style=flat-square&logo=langgraph&logoColor=050D0B" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
-</p>
-
-**Backend & tooling**
-
-<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+<sub>CNNs · LSTMs · Transformers · Medical imaging · Model evaluation · CI/CD</sub>
 
 ---
 
