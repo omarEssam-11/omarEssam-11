@@ -22,19 +22,19 @@
 
 I'm an AI Engineer working at the layer between probabilistic models and production software: orchestration, retrieval, evaluation, and safety. My work spans **autonomous multi-agent systems**, **multimodal retrieval-augmented generation**, and **applied machine learning** — from training and evaluation through to APIs, dashboards, and deployment.
 
-Most of my work starts from a failure mode: a model that invents a number, a retriever that misses the figure, an agent that acts without permission. I design around those cases first, then build the happy path.
-
 - **B.Sc. in Computer Engineering**, Menoufia University — graduated with an **Excellent** degree
 - Experience across agentic AI training (**NTI**), AI backend engineering (**FlyRank**), and technical instruction (**Udacity**, **3C**)
 - I care about systems that can explain their decisions, refuse unsafe actions, and hand over to a human at the right moment
 
 ---
 
-## How I work
+## Teaching & mentoring
 
-- **Deterministic boundaries around probabilistic models** — the model proposes, code validates, and every action is checked before it runs.
-- **Evaluation before shipping** — safety scenarios, retrieval recall, and language accuracy are measured, not assumed.
-- **Human-in-the-loop by design** — a system that knows when to stop and hand over is more useful than one that always answers.
+Explaining a system is part of understanding it.
+
+- **Udacity — Session Lead** (Jun 2025 – Jan 2026): guided DECI learners through applied data science, Python, machine learning, and model evaluation.
+- **3C — Coding Instructor** (May – Aug 2025): taught coding and applied data science fundamentals.
+- I write every project up as a case study — problem, architecture, decisions, and measured results — so the reasoning is reviewable, not just the demo.
 
 ---
 
@@ -78,7 +78,7 @@ Most of my work starts from a failure mode: a model that invents a number, a ret
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
 
-<sub>Seaborn · EDA · Data cleaning · Feature engineering · Statistical analysis</sub>
+<sub>Seaborn · EDA · Data preprocessing · Data cleaning · Feature engineering · Model evaluation (Accuracy, F1, ROC-AUC)</sub>
 
 **Agentic AI & LLM**
 
@@ -92,7 +92,7 @@ Most of my work starts from a failure mode: a model that invents a number, a ret
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
-<sub>Tool use · Function calling · Shared-state orchestration · Multi-agent coordination · Memory systems · Prompt engineering · Human-in-the-loop</sub>
+<sub>AI agents · Multi-agent systems · Agent orchestration · Agentic workflows · Shared-state (blackboard) architecture · Tool use · Function calling · Memory systems · Prompt engineering · Human-in-the-loop</sub>
 
 **RAG & multimodal**
 
@@ -106,23 +106,36 @@ Most of my work starts from a failure mode: a model that invents a number, a ret
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
-<sub>Multimodal RAG · Vision-language models · Hybrid search · Reciprocal Rank Fusion · LoRA / QLoRA · Cited generation</sub>
+<sub>RAG · Multimodal RAG · Embeddings & semantic search · Retrieval fusion · Grounded generation with citations · Vision-language models · LoRA / QLoRA · Hugging Face Transformers</sub>
 
-**ML, vision & deployment**
+**ML, vision & NLP**
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<sub>CNNs · LSTMs · Transformers · Medical imaging · Model evaluation · CI/CD</sub>
+<sub>CNNs · RNNs · LSTMs · Transformers · Transfer learning · NLP · Computer vision · Medical image analysis · Hyperparameter tuning</sub>
+
+**Backend & deployment**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<sub>REST APIs · Model deployment · CI/CD · SQLite · asyncio · WebSockets · Linux · yt-dlp · PyMuPDF</sub>
 
 ---
 
