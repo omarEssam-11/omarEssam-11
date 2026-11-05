@@ -6,13 +6,20 @@
 
 <p>I build AI systems that reason, retrieve, and take real actions — with the guardrails that make them safe to ship.</p>
 
-<a href="https://omaressam-11.github.io/"><img src="https://img.shields.io/badge/Portfolio-omaressam--11.github.io-2DD4A8?style=for-the-badge&logo=googlechrome&logoColor=050D0B" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/omar-essam-700816191/"><img src="https://img.shields.io/badge/LinkedIn-Omar_Essam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:omr3ssam22@gmail.com"><img src="https://img.shields.io/badge/Email-omr3ssam22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+  <a href="https://omaressam-11.github.io/"><img src="https://img.shields.io/badge/Portfolio-omaressam--11.github.io-2DD4A8?style=for-the-badge&logo=googlechrome&logoColor=050D0B" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omar-essam-700816191/"><img src="https://img.shields.io/badge/LinkedIn-Omar_Essam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:omr3ssam22@gmail.com"><img src="https://img.shields.io/badge/Email-omr3ssam22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-📍 Cairo, Egypt · Open to full-time AI engineering roles
+<p>
+  <img src="https://komarev.com/ghpvc/?username=omaressam-11&label=profile+views&color=2DD4A8&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/omarEssam-11?style=flat-square&color=2DD4A8&label=followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/omarEssam-11/omarEssam-11?style=flat-square&color=2DD4A8" alt="Last commit" />
+  <img src="https://img.shields.io/badge/Open_to-Full--time_roles-2DD4A8?style=flat-square" alt="Open to full-time roles" />
+</p>
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=omaressam-11&label=profile+views&color=2DD4A8&style=flat-square" alt="Profile views" />
+📍 Cairo, Egypt
 
 </div>
 
@@ -22,19 +29,25 @@
 
 I'm an AI Engineer working at the layer between probabilistic models and production software: orchestration, retrieval, evaluation, and safety. My work spans **autonomous multi-agent systems**, **multimodal retrieval-augmented generation**, and **applied machine learning** — from training and evaluation through to APIs, dashboards, and deployment.
 
-- **B.Sc. in Computer Engineering**, Menoufia University — graduated with an **Excellent** degree
-- Experience across agentic AI training (**NTI**), AI backend engineering (**FlyRank**), and technical instruction (**Udacity**, **3C**)
-- I care about systems that can explain their decisions, refuse unsafe actions, and hand over to a human at the right moment
+| At a glance | |
+| :--- | :--- |
+| **Education** | B.Sc. in Computer Engineering, Menoufia University — graduated with an **Excellent** degree |
+| **Experience** | Agentic AI training (**NTI**), AI backend engineering (**FlyRank**), technical instruction (**Udacity**, **3C**) |
+| **Focus** | Agentic systems · Multimodal RAG · Applied ML |
+| **Based in** | Cairo, Egypt |
+| **Open to** | Full-time AI engineering roles and collaborations |
+
+I care about systems that can explain their decisions, refuse unsafe actions, and hand over to a human at the right moment.
 
 ---
 
 ## What I work on
 
-**Agentic systems** — LangGraph, LangChain, CrewAI, AutoGen, and OpenAI Agents SDK; MCP tool servers; shared-state orchestration; human-in-the-loop escalation.
-
-**Multimodal RAG** — Qdrant, FAISS, Chroma, and Pinecone; CLIP cross-modal embeddings; hybrid retrieval with Reciprocal Rank Fusion; cited generation with evidence panels.
-
-**Applied ML & deployment** — PyTorch, scikit-learn, CNNs and LSTMs, medical image analysis, FastAPI services, Docker, and CI/CD.
+| Area | What I build |
+| :--- | :--- |
+| **Agentic systems** | LangGraph, LangChain, CrewAI, AutoGen, and OpenAI Agents SDK; MCP tool servers; shared-state orchestration; human-in-the-loop escalation. |
+| **Multimodal RAG** | Qdrant, FAISS, Chroma, and Pinecone; CLIP cross-modal embeddings; hybrid retrieval with Reciprocal Rank Fusion; cited generation with evidence panels. |
+| **Applied ML & deployment** | PyTorch, scikit-learn, CNNs and LSTMs, medical image analysis, FastAPI services, Docker, and CI/CD. |
 
 ---
 
@@ -48,7 +61,7 @@ I'm an AI Engineer working at the layer between probabilistic models and product
 | **[DAG Multi-Agent Studio](https://github.com/omarEssam-11/DAG-Multi-Agent-Code-Generation)** | Dependency-aware multi-agent code generation with runtime DAG mutation, topological scheduling, and live WebSocket telemetry. | Python · asyncio · FastAPI · WebSockets |
 | **[Video Captioning with BLIP](https://github.com/omarEssam-11/Video-Captioning-Blip)** | End-to-end per-frame video captioning, caption burn-in, and re-encoding — via web UI, REST API, CLI, and notebook. | Python · PyTorch · BLIP · FastAPI · Docker |
 
-<sub>AI Clinical Diagnostics is a private repository — the full case study is on my <a href="https://omaressam-11.github.io/#projects">portfolio</a>.</sub>
+<sub>AI Clinical Diagnostics is a private repository — the full case study is on my <a href="https://omaressam-11.github.io/#projects">portfolio</a>. Interactive architecture diagrams for every project live there too.</sub>
 
 ---
 
@@ -144,7 +157,7 @@ I'm an AI Engineer working at the layer between probabilistic models and product
 
 ## Let's build something
 
-I'm open to **full-time AI engineering roles** and **collaborations** on agentic systems, retrieval, and applied ML.
+I'm open to **full-time AI engineering roles** and **collaborations** on agentic systems, retrieval, and applied ML. If you want to dig into a specific project, the case studies on my portfolio cover the problem, architecture, decisions, and measured results.
 
 - 🌐 **Portfolio** — [omaressam-11.github.io](https://omaressam-11.github.io/)
 - 💼 **LinkedIn** — [omar-essam-700816191](https://www.linkedin.com/in/omar-essam-700816191/)
