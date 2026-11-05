@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://omaressam-11.github.io/">
-  <img src="https://omaressam-11.github.io/og-image.jpg" alt="Omar Essam — AI Engineer, Agentic AI, RAG & Multimodal Systems" width="100%" />
-</a>
-
 <h1>Omar Essam</h1>
 
 <h3>AI Engineer — Agentic AI · Multimodal RAG · Applied ML</h3>
@@ -14,6 +10,10 @@
 
 📍 Cairo, Egypt · Open to full-time AI engineering roles
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=omaressam-11&label=profile+views&color=2DD4A8&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
@@ -22,7 +22,7 @@
 
 I'm an AI Engineer working at the layer between probabilistic models and production software: orchestration, retrieval, evaluation, and safety. My work spans **autonomous multi-agent systems**, **multimodal retrieval-augmented generation**, and **applied machine learning** — from training and evaluation through to APIs, dashboards, and deployment.
 
-- **B.Sc. in Computer Engineering**, Menoufia University — graduated **Excellent (Honors), 2025**
+- **B.Sc. in Computer Engineering**, Menoufia University — graduated with an **Excellent** degree
 - Experience across agentic AI training (**NTI**), AI backend engineering (**FlyRank**), and technical instruction (**Udacity**, **3C**)
 - I care about systems that can explain their decisions, refuse unsafe actions, and hand over to a human at the right moment
 
