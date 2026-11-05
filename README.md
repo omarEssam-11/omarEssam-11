@@ -28,16 +28,6 @@ I'm an AI Engineer working at the layer between probabilistic models and product
 
 ---
 
-## Teaching & mentoring
-
-Explaining a system is part of understanding it.
-
-- **Udacity — Session Lead** (Jun 2025 – Jan 2026): guided DECI learners through applied data science, Python, machine learning, and model evaluation.
-- **3C — Coding Instructor** (May – Aug 2025): taught coding and applied data science fundamentals.
-- I write every project up as a case study — problem, architecture, decisions, and measured results — so the reasoning is reviewable, not just the demo.
-
----
-
 ## What I work on
 
 **Agentic systems** — LangGraph, LangChain, CrewAI, AutoGen, and OpenAI Agents SDK; MCP tool servers; shared-state orchestration; human-in-the-loop escalation.
